@@ -2,6 +2,6 @@
 
 Disciplina dos programas de pós-graduação:
 * Programa de Pós Graduação em Engenharia Ambiental (PPGEA)
-* Programa de Pós Graduação em Métodos Numéricos na Engenharia (PPGMNE)
+* Programa de Pós Graduação em Métodos Numéricos em Engenharia (PPGMNE)
 
 Universidade Federal do Paraná
